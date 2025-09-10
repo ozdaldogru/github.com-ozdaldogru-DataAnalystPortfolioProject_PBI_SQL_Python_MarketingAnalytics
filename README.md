@@ -1,0 +1,2 @@
+# github.com-ozdaldogru-DataAnalystPortfolioProject_PBI_SQL_Python_MarketingAnalytics
+SQL Project
